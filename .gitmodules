@@ -1,0 +1,3 @@
+[submodule "throughputTesting/ethereum-docker"]
+	path = throughputTesting/ethereum-docker
+	url = https://github.com/Capgemini-AIE/ethereum-docker.git
