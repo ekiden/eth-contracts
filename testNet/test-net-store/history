@@ -1,0 +1,15 @@
+web3.fromWei(eth.getBalance(eth.accounts[0]), “ether”)
+web3
+web3.fromWei
+web3.fromWei(eth.getBalance(eth.accounts[0]))
+web3.fromWei(eth.getBalance(eth.accounts[0]),"ether")
+eth.accounts[0]
+var k=7e3474ac8f8c94f63d0c16b02d95eca765b44667
+var k='7e3474ac8f8c94f63d0c16b02d95eca765b44667'
+k
+eth.getBalance(k)
+eth.getBalance(k,"ether")
+eth.getBalance(k)
+eth.mine
+eth.miner
+eth.pendingTransactions
